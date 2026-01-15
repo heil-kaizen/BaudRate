@@ -1,0 +1,5 @@
+{
+  "name": "BaudRate Terminal",
+  "description": "A highly aesthetic, CRT-styled terminal emulator with Gemini AI integration, featuring bloom, scanlines, and a holographic projection interface.",
+  "requestFramePermissions": []
+}
